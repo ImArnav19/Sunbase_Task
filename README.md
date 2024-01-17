@@ -5,6 +5,18 @@ A Complete Crud App Full Working with Backend in Springboot and Frontend with Re
 https://github.com/ImArnav19/Sunbase_Task/assets/117253613/459699ff-16a2-4cb7-81b5-096d4c309d42
 
 
+ADDITIONS:
+
+
+
+https://github.com/ImArnav19/Sunbase_Task/assets/117253613/8b25da7b-5a43-49e4-8357-165f4804ca3a
+
+Implemented Pagination,Sorting,Searching with improvement in Both Server,CLient Codes
+
+Can implement Jwt and Docs with SwaggerApi , need some time can do it.
+
+
+
 
 For Running the application :
 
