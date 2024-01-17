@@ -27,13 +27,16 @@ MAVEN, JDK for Build and Springboot
 STEPS
 
 1.CLONE REPOSITORY
-*git clone https://github.com/ImArnav19/Sunbase_Task.git *
+
+git clone https://github.com/ImArnav19/Sunbase_Task.git
 
 FRONTEND:
 
-*cd .\employeeweb\*
+cd .\employeeweb\
 
-run - *npm i*   install all dependencies
+  
+install all dependencies
+*npm i*
 
 *npm start*  
 
