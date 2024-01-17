@@ -103,8 +103,8 @@ const Dash = () => {
         
         try {
             const response = await axios.post('http://localhost:8080/api/token', {
-                login_id :"test@sunbasedata.com",
-                password :"Test@123"
+                login_id :"",
+                password :""
             });
   
             const ans = response.json();
