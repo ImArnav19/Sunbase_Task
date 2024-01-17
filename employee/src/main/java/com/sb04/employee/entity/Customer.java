@@ -42,8 +42,9 @@ public class Customer {
 
     }
 
+
     public String getId() {
-        return uuid;
+        return this.uuid;
     }
 
     public String getAddress() {
@@ -78,8 +79,8 @@ public class Customer {
         return street;
     }
 
-    public void setId(String id) {
-        this.uuid = id;
+    public void setId(String uuid) {
+        this.uuid = uuid;
     }
 
     public void setAddress(String address) {
