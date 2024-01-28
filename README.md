@@ -7,11 +7,12 @@ https://github.com/ImArnav19/Sunbase_Task/assets/117253613/459699ff-16a2-4cb7-81
 
 ADDITIONS:
 
+Implemented Pagination,Sorting,Searching with improvement in Both Server,CLient Codes
 
 
 https://github.com/ImArnav19/Sunbase_Task/assets/117253613/8b25da7b-5a43-49e4-8357-165f4804ca3a
 
-Implemented Pagination,Sorting,Searching with improvement in Both Server,CLient Codes
+
 
 
 Implemented JWT Authentication for Securing Apis : 
@@ -27,7 +28,17 @@ body -> JSon
   "password":"arnav"
 }
 
-Docs with SwaggerApi , need some time can do it.
+Docs with SwaggerApi 
+
+Implemented entirely on springboot , Kept it public to Access -> *http://localhost:8080/swagger-ui/index.html*
+
+
+https://github.com/ImArnav19/Sunbase_Task/assets/117253613/ec302a0d-62c5-479a-b1ab-226092ecef43
+
+
+
+
+
 
 
 
