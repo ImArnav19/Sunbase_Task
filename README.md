@@ -13,7 +13,21 @@ https://github.com/ImArnav19/Sunbase_Task/assets/117253613/8b25da7b-5a43-49e4-83
 
 Implemented Pagination,Sorting,Searching with improvement in Both Server,CLient Codes
 
-Can implement Jwt and Docs with SwaggerApi , need some time can do it.
+
+Implemented JWT Authentication for Securing Apis : 
+
+
+https://github.com/ImArnav19/Sunbase_Task/assets/117253613/35cfcc44-2e3f-4a54-ad64-d6824c8636a2
+
+
+body -> JSon
+
+{
+  "email":"arnav",
+  "password":"arnav"
+}
+
+Docs with SwaggerApi , need some time can do it.
 
 
 
